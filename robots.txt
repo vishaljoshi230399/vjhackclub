@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vishaljoshi230399.github.io/vjhackclub/sitemap.xml
