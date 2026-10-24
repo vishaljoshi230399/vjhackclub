@@ -51,3 +51,7 @@ BRAND UPDATE (October 2026)
 - Contact phone: +91 92596 89247 (click-to-call), WhatsApp enquiry uses the same number.
 - Keep the assets/ and projects/ folders in the repository root when publishing.
 - This package prepares the website files; it does not publish changes to GitHub automatically.
+
+
+THEME UPDATE
+This version uses the reference-inspired deep black/navy background, neon-green accents, electric-cyan highlights, rounded cards, digital glow effects, and the included masked-coder SVG logo. Upload the contents of this folder to the root of your GitHub Pages repository, keeping assets/ and projects/ folders intact.
